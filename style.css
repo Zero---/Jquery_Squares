@@ -1,0 +1,31 @@
+body{
+	margin: 0;
+	padding: 0;
+	display: block;
+	background: grey;
+}
+
+#container {
+	margin: 0 auto;
+}
+
+#container div {
+}
+
+#center {
+	width: 100%;
+}
+
+.squares {
+	background:tomato;
+	width: 60px;
+	height: 60px;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+
+.row {
+	margin: auto;
+	width: 50%;
+}
